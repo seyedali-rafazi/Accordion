@@ -79,9 +79,6 @@ Feel free to customize the styles of the accordion by modifying the relevant CSS
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
